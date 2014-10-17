@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dau:home|Door43 (dau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dau|d43-dau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dau/archive/master.zip|d43-dau.zip]]
+
+**Recent Changes**
+{{changes>ns = dau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dau|Ethnologue data]]
+
